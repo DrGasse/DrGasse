@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DrGasse
 - 👀 I’m interested in programming, videogames, electronics and motor racing
 - 🌱 I’m currently learning engine management and ecu development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me racing.lbr@gmail.com
 
 <!---
